@@ -1,11 +1,1 @@
-ipython
-jupyterlab
-matplotlib
-notebook
-numpy
-pandas
-pip
-python-dotenv
-ruff
-scikit-learn
--e .
+-e file:///C:/Users/514311/workspace/adv-data-analytics
